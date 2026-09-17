@@ -1,72 +1,123 @@
-# Hi, I'm Abderaouf 👋
+<div align="center">
 
-### Networks & Cybersecurity | Linux • Network Security • Edge AI
+# Hey 👋 I'm Abderaouf
 
-I’m building my path in **networks and cybersecurity** through hands-on projects, networking labs, Linux, Python, and security-focused experimentation.
+### Networks & Cybersecurity
 
-I enjoy learning by building, troubleshooting, and documenting what I discover.
+**Linux • Network Security • Python • Edge AI**
+
+<p>
+  <a href="https://github.com/abderaoufsec">
+    <img src="https://img.shields.io/badge/GitHub-abderaoufsec-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abderaouf-benabdsselem-868390281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abderaouf-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/imABDRAOUF">
+    <img src="https://img.shields.io/badge/X-@imABDRAOUF-000000?style=for-the-badge&logo=x" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abderaoufsec&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm building my path in **networks and cybersecurity** through hands-on projects, networking labs, Linux, Python, and security-focused experimentation.
+
+I learn by **building, testing, troubleshooting, and documenting** what I discover.
+
+My current interests are around:
+
+* 🌐 Computer Networks
+* 🔐 Network Security
+* 🐧 Linux & Systems
+* 🐍 Python Automation
+* 🛡️ Intrusion Detection Systems
+* 🤖 Edge AI for Security
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<div align="center">
+
+### Networking & Systems
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" alt="Bash" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" />
 </p>
 
-### Networking
+**Cisco Networking • TCP/IP • Routing & Switching • VLANs • STP • OSPF • EIGRP • ACLs • NAT**
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" />
+### Programming
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
 </p>
 
-**Cisco Networking • TCP/IP • Routing & Switching • VLANs • STP • OSPF • EIGRP • ACLs • NAT • Network Troubleshooting**
+### AI & Security
 
-### Security & Systems
+**Machine Learning • Edge AI • RAG • Local LLMs • FAISS • Embeddings • IDS**
 
-**Linux • Network Security • Traffic Analysis • IDS • Security Labs • Python Automation**
-
-### AI
-
-**Edge AI • Machine Learning • RAG • Local LLMs • FAISS • Embeddings**
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📡 [CCNA Packet Tracer Labs](https://github.com/abderaoufsec/CCNA-PacketTracerlabs)
+<div align="center">
 
-A growing collection of hands-on Cisco Packet Tracer labs covering networking and CCNA-related concepts.
+### 📡 CCNA Packet Tracer Labs
 
-**Routing • Switching • VLANs • OSPF • EIGRP • ACLs • NAT • Network Security**
+[![CCNA Labs](https://github-readme-stats.vercel.app/api/pin/?username=abderaoufsec\&repo=CCNA-PacketTracerlabs\&hide_border=true)](https://github.com/abderaoufsec/CCNA-PacketTracerlabs)
+
+</div>
+
+A growing collection of hands-on **Cisco Packet Tracer labs** covering networking and CCNA-related concepts.
+
+**Routing • Switching • VLANs • OSPF • EIGRP • ACLs • NAT • Troubleshooting**
 
 ---
 
-### 🤖 [CloudRAG](https://github.com/abderaoufsec/CloudRAG)
+<div align="center">
 
-A multilingual, local-first Retrieval-Augmented Generation application.
+### 🤖 CloudRAG
+
+[![CloudRAG](https://github-readme-stats.vercel.app/api/pin/?username=abderaoufsec\&repo=CloudRAG\&hide_border=true)](https://github.com/abderaoufsec/CloudRAG)
+
+</div>
+
+A multilingual, local-first **Retrieval-Augmented Generation** application.
 
 **Python • FastAPI • React • FAISS • Embeddings • Local LLMs**
 
 ---
 
-### 🌐 [Networking-Labs](https://github.com/abderaoufsec/Networking-Labs)
+<div align="center">
+
+### 🌐 Networking-Labs
+
+[![Networking Labs](https://github-readme-stats.vercel.app/api/pin/?username=abderaoufsec\&repo=Networking-Labs\&hide_border=true)](https://github.com/abderaoufsec/Networking-Labs)
+
+</div>
 
 Hands-on networking projects covering routing, switching, network services, and security fundamentals.
 
@@ -76,64 +127,99 @@ Hands-on networking projects covering routing, switching, network services, and 
 
 ## 🎯 Current Focus
 
+<div align="center">
+
 ```text
-Networking
-     ↓
-Network Security
-     ↓
-Cybersecurity
-     ↓
-Security Engineering
+        NETWORKING
+            │
+            ▼
+     NETWORK SECURITY
+            │
+            ▼
+      CYBERSECURITY
+            │
+            ▼
+   SECURITY ENGINEERING
 ```
+
+</div>
 
 Currently exploring:
 
-* Network traffic analysis
-* Intrusion Detection Systems
-* Linux security
-* Network automation with Python
-* Edge AI for security
-* Practical networking labs
-* Security monitoring and troubleshooting
+🔹 Network traffic analysis
+🔹 Linux security
+🔹 Network automation with Python
+🔹 Intrusion Detection Systems
+🔹 Edge AI for cybersecurity
+🔹 Security monitoring
+🔹 Practical networking labs
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderaoufsec&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderaoufsec&layout=compact&langs_count=8&hide_border=true" height="170" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=abderaoufsec&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170" />
 
-## 🔗 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderaoufsec&layout=compact&langs_count=8&hide_border=true" height="170" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abderaouf-benabdsselem-868390281/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin" />
-  </a>
-  <a href="https://x.com/imABDRAOUF">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="40" alt="X" />
-  </a>
-  <a href="https://mastodon.social/@abderaouf">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/mastodon/default.svg" width="45" height="40" alt="Mastodon" />
-  </a>
-  <a href="https://dev.to/abderaouf-b">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="45" height="40" alt="dev.to" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🔥 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abderaoufsec/abderaoufsec/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abderaoufsec&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Securing.</i>
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abderaoufsec/abderaoufsec/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abderaouf-benabdsselem-868390281/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://x.com/imABDRAOUF">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" />
+</a>
+
+<a href="https://mastodon.social/@abderaouf">
+  <img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon" />
+</a>
+
+<a href="https://dev.to/abderaouf-b">
+  <img src="https://img.shields.io/badge/dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Learning by Building
+
+**Networks → Security → Cybersecurity → Security Engineering**
+
+<br>
+
+<i>Building. Learning. Securing. 🔐</i>
+
+</div>
