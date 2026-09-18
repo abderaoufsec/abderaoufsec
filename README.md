@@ -1,199 +1,176 @@
-<div align="center">
-
-# `> whoami`
-
-## Abderaouf Benabdsselem
-
-### `Networks & Cybersecurity`
-
-**Linux • Network Security • Python • Edge AI**
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NETWORKING-CCNA-orange?style=for-the-badge" />
-
-<br><br>
-
-<a href="https://github.com/abderaoufsec">
-<img src="https://img.shields.io/badge/GitHub-abderaoufsec-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/abderaouf-benabdsselem-868390281/">
-<img src="https://img.shields.io/badge/LinkedIn-Abderaouf-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://x.com/imABDRAOUF">
-<img src="https://img.shields.io/badge/X-@imABDRAOUF-000000?style=for-the-badge&logo=x" />
-</a>
-
-</div>
+# 🛡️ Abderaouf Benabdsselem — Networks & Cybersecurity
 
 ---
 
-## `~/about`
+## 🌐 About Me
 
-```text
-I'm interested in understanding how networks work,
-how they fail, and how they can be secured.
+I'm building my path in **Networks & Cybersecurity** through practical projects,
+networking labs, Linux, Python, and security-focused experimentation.
 
-I learn through:
-
-  → Networking labs
-  → Linux
-  → Python automation
-  → Security experimentation
-  → AI / Edge AI projects
-  → Building and troubleshooting
-```
+My current focus is on understanding how networks work, how they can be secured,
+and how automation and AI can be applied to security problems.
 
 ---
 
-## `~/stack`
+## 🎯 Current Focus
 
-<div align="center">
-
-### Systems & Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="55" />
-
-### Security & Networking
-
-`Cisco` `TCP/IP` `VLAN` `STP` `OSPF` `EIGRP` `ACL` `NAT` `VPN` `IPv4` `IPv6`
-
-### AI
-
-`Machine Learning` `RAG` `FAISS` `Embeddings` `Local LLMs` `Edge AI`
-
-</div>
+- 🌐 Computer Networking
+- 🔐 Network Security
+- 🐧 Linux
+- 🐍 Python Automation
+- 🤖 Edge AI for Cybersecurity
+- 🛡️ Intrusion Detection Systems
+- 🧪 Security Labs & Practical Experiments
 
 ---
 
-## `~/projects`
+## 🛠 Technical Skills
 
-<table>
-<tr>
-<td width="50%">
+### 🌐 Networking
 
-### 📡 CCNA Labs
+- TCP/IP
+- IPv4 / IPv6
+- Subnetting
+- VLANs & Trunking
+- STP
+- Routing
+- OSPF
+- EIGRP
+- ACLs
+- NAT
+- DHCP
+- DNS
+- VPNs
+- Network Troubleshooting
 
-[**CCNA-PacketTracerlabs →**](https://github.com/abderaoufsec/CCNA-PacketTracerlabs)
+### 🔐 Cybersecurity
 
-Hands-on Cisco Packet Tracer practice.
+- Network Security
+- Traffic Analysis
+- IDS / Intrusion Detection
+- Linux Security
+- Security Labs
+- Network Hardening
 
-`Routing` `Switching` `VLANs`
-`OSPF` `EIGRP` `ACLs` `NAT`
+### 💻 Programming & Development
 
-</td>
+- Python
+- C / C++
+- Bash
+- FastAPI
+- React
+- Git / GitHub
 
-<td width="50%">
+### 🤖 AI & Data
+
+- RAG
+- FAISS
+- Sentence Transformers
+- Local LLMs
+- Ollama
+- Edge AI
+
+---
+
+## 🔥 Featured Projects
+
+### 🌐 CCNA Packet Tracer Labs
+
+A collection of hands-on Cisco Packet Tracer labs covering
+networking and CCNA-related topics.
+
+**Topics include:**
+
+- VLANs
+- Routing
+- OSPF
+- EIGRP
+- ACLs
+- DHCP
+- IPv4 / IPv6
+- NAT
+- VPN
+- Network Security
+
+🔗 [View Repository](https://github.com/abderaoufsec/CCNA-PacketTracerlabs)
+
+---
 
 ### 🤖 CloudRAG
 
-[**CloudRAG →**](https://github.com/abderaoufsec/CloudRAG)
+A multilingual, local-first RAG document assistant built as a
+full-stack project.
 
-Multilingual local-first RAG application.
+**Technologies:**
 
-`Python` `FastAPI` `React`
-`FAISS` `LLM` `Embeddings`
+- Python
+- FastAPI
+- React / Vite
+- SQLite
+- Sentence Transformers
+- FAISS
+- Qdrant
+- Ollama
+- Docker
 
-</td>
-</tr>
+The project covers document ingestion, embeddings, semantic search,
+retrieval-grounded answers, source tracking, evaluation, and deployment.
 
-<tr>
-<td>
+🔗 [View Repository](https://github.com/abderaoufsec/CloudRAG)
+
+---
 
 ### 🌐 Networking Labs
 
-[**Networking-Labs →**](https://github.com/abderaoufsec/Networking-Labs)
+Networking projects covering practical configuration and
+troubleshooting topics.
 
-Networking and security labs.
+**Topics include:**
 
-`VLANs` `Routing` `STP`
-`DHCP` `DNS` `ACLs` `VPN`
+- VLANs
+- Routing
+- STP
+- DHCP
+- DNS
+- NAT
+- ACLs
+- VPNs
+- IPv4 / IPv6
+- Network Security
 
-</td>
+🔗 [View Repository](https://github.com/abderaoufsec/Networking-Labs)
 
-<td>
+---
 
 ### 🐚 UNIX Shell
 
-[**myshell →**](https://github.com/abderaoufsec/myshell)
+A C++ project exploring the implementation of a UNIX shell
+and fundamental operating-system concepts.
 
-Systems programming project exploring a UNIX shell.
-
-`C++` `Linux` `Systems`
-
-</td>
-</tr>
-</table>
+🔗 [View Repository](https://github.com/abderaoufsec/myshell)
 
 ---
 
-## `~/roadmap`
+## 🧩 Currently Working On
+
+- 🔐 Building stronger foundations in network security
+- 🌐 Expanding practical networking labs
+- 🐧 Improving Linux skills
+- 🛡️ Exploring intrusion detection systems
+- 🤖 Exploring Edge AI for cybersecurity
+- 🐍 Building practical Python automation projects
+
+---
+
+## 📚 Learning Path
 
 ```text
-┌───────────────────────────────────────┐
-│                                       │
-│       NETWORKING                      │
-│           │                           │
-│           ▼                           │
-│       NETWORK SECURITY                │
-│           │                           │
-│           ▼                           │
-│       CYBERSECURITY                   │
-│           │                           │
-│           ▼                           │
-│       SECURITY ENGINEERING            │
-│                                       │
-└───────────────────────────────────────┘
-```
-
----
-
-## `~/github`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abderaoufsec&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderaoufsec&layout=compact&langs_count=8&hide_border=true&theme=dark" />
-
-</div>
-
----
-
-## `~/connect`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abderaouf-benabdsselem-868390281/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://x.com/imABDRAOUF">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
-</a>
-
-<a href="https://mastodon.social/@abderaouf">
-<img src="https://img.shields.io/badge/MASTODON-6364FF?style=for-the-badge&logo=mastodon" />
-</a>
-
-<a href="https://dev.to/abderaouf-b">
-<img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-`[ building ] [ learning ] [ securing ]`
-
-</div>
+Networking
+     ↓
+Network Security
+     ↓
+Cybersecurity
+     ↓
+Security Engineering
+     ↓
+Edge AI for Security
