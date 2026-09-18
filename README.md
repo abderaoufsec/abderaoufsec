@@ -1,129 +1,109 @@
-# 🛡️ Abderaouf Benabdsselem — Networks & Cybersecurity
+<!--
+Abderaouf Benabdsselem | Networks & Cybersecurity | Linux | Network Security | Python | Edge AI
+Building practical networking and security projects through hands-on labs, automation, and experimentation.
+-->
+
+<h1 align="center">🛡️ Abderaouf Benabdsselem — Networks & Cybersecurity</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00D9FF&size=25&center=true&vCenter=true&width=900&lines=Networks+%26+Cybersecurity;Network+Security+%26+Linux;Python+Automation;CCNA+Networking+Labs;Edge+AI+for+Cybersecurity;Learning+by+Building" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-CCNA%20Labs-blue?logo=cisco">
+  <img src="https://img.shields.io/badge/Linux-Learning%20%26%20Labs-black?logo=linux">
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?logo=python">
+  <img src="https://img.shields.io/badge/Network%20Security-Focused-red?logo=security">
+  <img src="https://img.shields.io/badge/Edge%20AI-Exploring-purple?logo=ai">
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-brightgreen?style=flat-square">
+</p>
 
 ---
 
-## 🌐 About Me
+## 🌐 Networks & Cybersecurity
 
-I'm building my path in **Networks & Cybersecurity** through practical projects,
-networking labs, Linux, Python, and security-focused experimentation.
+I’m building my path in **Networks & Cybersecurity** through practical projects, networking labs, Linux, Python, and security experimentation.
 
-My current focus is on understanding how networks work, how they can be secured,
-and how automation and AI can be applied to security problems.
+My main interest is understanding how networks work, how they can be secured, and how automation and AI can be applied to security problems.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Professional Summary
 
-- 🌐 Computer Networking
+Focused on building practical experience across **computer networking, network security, Linux, Python automation, and cybersecurity**.
+
+I learn primarily by building and troubleshooting real projects rather than only studying theory.
+
+**Focus Areas:**
+
+- 🌐 Computer Networking & CCNA Labs
 - 🔐 Network Security
 - 🐧 Linux
 - 🐍 Python Automation
+- 🛡️ Intrusion Detection & Security Monitoring
 - 🤖 Edge AI for Cybersecurity
-- 🛡️ Intrusion Detection Systems
-- 🧪 Security Labs & Practical Experiments
+- 🧪 Security Labs & Practical Experimentation
 
 ---
 
 ## 🛠 Technical Skills
 
-### 🌐 Networking
-
-- TCP/IP
-- IPv4 / IPv6
-- Subnetting
-- VLANs & Trunking
-- STP
-- Routing
-- OSPF
-- EIGRP
-- ACLs
-- NAT
-- DHCP
-- DNS
-- VPNs
-- Network Troubleshooting
-
-### 🔐 Cybersecurity
-
-- Network Security
-- Traffic Analysis
-- IDS / Intrusion Detection
-- Linux Security
-- Security Labs
-- Network Hardening
-
-### 💻 Programming & Development
-
-- Python
-- C / C++
-- Bash
-- FastAPI
-- React
-- Git / GitHub
-
-### 🤖 AI & Data
-
-- RAG
-- FAISS
-- Sentence Transformers
-- Local LLMs
-- Ollama
-- Edge AI
+* **Networking:** TCP/IP, IPv4, IPv6, Subnetting, VLANs, Trunking, STP, Routing, OSPF, EIGRP, ACLs, NAT, DHCP, DNS, VPNs
+* **Network Security:** Network Security, Traffic Analysis, ACLs, Network Hardening, IDS Concepts, Security Labs
+* **Systems:** Linux, Windows, Bash, C, C++
+* **Programming:** Python, C, C++, Bash
+* **Development:** FastAPI, React, Git, GitHub
+* **AI:** RAG, FAISS, Embeddings, Local LLMs, Ollama, Edge AI
+* **Tools:** Cisco Packet Tracer, Git, GitHub, VS Code
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🌐 CCNA Packet Tracer Labs
+### 1. **CCNA Packet Tracer Labs** — *Networking Practice*
 
-A collection of hands-on Cisco Packet Tracer labs covering
-networking and CCNA-related topics.
+A collection of hands-on Cisco Packet Tracer labs covering practical CCNA networking topics.
 
 **Topics include:**
 
-- VLANs
+- VLANs & Trunking
 - Routing
 - OSPF
 - EIGRP
 - ACLs
 - DHCP
-- IPv4 / IPv6
 - NAT
+- IPv4 / IPv6
 - VPN
 - Network Security
+- Switching & STP
 
-🔗 [View Repository](https://github.com/abderaoufsec/CCNA-PacketTracerlabs)
+🔗 Repo: [CCNA-PacketTracerlabs](https://github.com/abderaoufsec/CCNA-PacketTracerlabs)
 
 ---
 
-### 🤖 CloudRAG
+### 2. **CloudRAG** — *Full-Stack AI / RAG Project*
 
-A multilingual, local-first RAG document assistant built as a
-full-stack project.
+A multilingual, local-first Retrieval-Augmented Generation document assistant.
 
-**Technologies:**
+**Technologies include:**
 
 - Python
 - FastAPI
-- React / Vite
-- SQLite
-- Sentence Transformers
+- React
 - FAISS
-- Qdrant
-- Ollama
-- Docker
+- Embeddings
+- Local LLMs
+- RAG
+- SQLite
 
-The project covers document ingestion, embeddings, semantic search,
-retrieval-grounded answers, source tracking, evaluation, and deployment.
-
-🔗 [View Repository](https://github.com/abderaoufsec/CloudRAG)
+🔗 Repo: [CloudRAG](https://github.com/abderaoufsec/CloudRAG)
 
 ---
 
-### 🌐 Networking Labs
+### 3. **Networking Labs** — *Networking & Security*
 
-Networking projects covering practical configuration and
-troubleshooting topics.
+A collection of networking projects and labs covering configuration, routing, switching, and network security concepts.
 
 **Topics include:**
 
@@ -138,39 +118,135 @@ troubleshooting topics.
 - IPv4 / IPv6
 - Network Security
 
-🔗 [View Repository](https://github.com/abderaoufsec/Networking-Labs)
+🔗 Repo: [Networking-Labs](https://github.com/abderaoufsec/Networking-Labs)
 
 ---
 
-### 🐚 UNIX Shell
+### 4. **UNIX Shell** — *Systems Programming*
 
-A C++ project exploring the implementation of a UNIX shell
-and fundamental operating-system concepts.
+A C++ project exploring the implementation of a UNIX shell and fundamental systems programming concepts.
 
-🔗 [View Repository](https://github.com/abderaoufsec/myshell)
+🔗 Repo: [myshell](https://github.com/abderaoufsec/myshell)
 
 ---
 
 ## 🧩 Currently Working On
 
-- 🔐 Building stronger foundations in network security
-- 🌐 Expanding practical networking labs
-- 🐧 Improving Linux skills
-- 🛡️ Exploring intrusion detection systems
-- 🤖 Exploring Edge AI for cybersecurity
-- 🐍 Building practical Python automation projects
+- Building more advanced **CCNA and network security labs**
+- Strengthening **Linux and networking skills**
+- Exploring **network traffic analysis**
+- Exploring **Intrusion Detection Systems (IDS)**
+- Building practical **Python automation** projects
+- Exploring **Edge AI for cybersecurity**
+- Continuing development of practical security-focused projects
 
 ---
 
-## 📚 Learning Path
+## 🔥 Other Projects
 
-```text
-Networking
-     ↓
-Network Security
-     ↓
-Cybersecurity
-     ↓
-Security Engineering
-     ↓
-Edge AI for Security
+| 🚀 Project | 💡 Description |
+|---|---|
+| [**Klix**](https://github.com/abderaoufsec/Klix) | Flutter application for Android and Android TV. |
+| [**Embedded-IoT**](https://github.com/abderaoufsec/Embedded-iot) | Embedded and IoT learning project covering C, ESP32, sensors, MQTT, Linux, Raspberry Pi and IoT security. |
+| [**Networking-Labs**](https://github.com/abderaoufsec/Networking-Labs) | Practical networking and network security labs. |
+| [**myshell**](https://github.com/abderaoufsec/myshell) | C++ UNIX shell and systems programming project. |
+
+---
+
+## 🏆 Highlights
+
+- 🌐 Built a growing collection of **Cisco Packet Tracer networking labs**.
+- 🔐 Focused on **network security and cybersecurity fundamentals**.
+- 🐧 Building practical experience with **Linux**.
+- 🐍 Using **Python** for development and automation.
+- 🤖 Built a **local-first RAG application** with CloudRAG.
+- 🧪 Learning through hands-on networking, systems, and security projects.
+- 📚 Exploring the path from **Networking → Network Security → Cybersecurity**.
+
+---
+
+## 🎓 Education
+
+**Master's — Computer Networks & Systems**
+
+Focus areas include computer networks, systems, cybersecurity, and practical technical projects.
+
+---
+
+## 📜 Certifications & Learning
+
+* **CCNA topics** — Hands-on study and Packet Tracer practice
+* **Cybersecurity** — Ongoing practical learning and security labs
+* **Linux & Network Security** — Ongoing hands-on learning
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,c,cpp,git,github,react,fastapi,flutter,dart,ollama" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<a href="https://github.com/abderaoufsec">
+  <img src="https://github-readme-stats.vercel.app/api?username=abderaoufsec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/abderaoufsec">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderaoufsec&theme=tokyonight&hide_border=true&layout=compact" />
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/abderaouf-benabdsselem-868390281/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/imABDRAOUF">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://dev.to/abderaouf-b">
+    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+
+  <a href="https://mastodon.social/@abderaouf">
+    <img src="https://img.shields.io/badge/Mastodon-%236364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I learn networking by building the topology, breaking it, troubleshooting it, and figuring out why it failed.
+
+---
+
+## 📈 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abderaoufsec&style=flat-square&color=blue" />
+
+</p>
+
+---
+
+<p align="center">
+
+📌 **Building. Learning. Securing.**
+
+</p>
